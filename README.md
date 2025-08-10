@@ -44,7 +44,7 @@ Response Example
   "id": "...",
   "title": "something",
   "content": "something.",
-  "createdAt": "2025-08-10T15:00:00.000Z",
+  "createdAt": "...",
   "attachmentPath": "uploads/abc123.png",
   "originalFileName": "something.png",
   "mimetype": "image/png",
@@ -70,7 +70,7 @@ Response Example:
     "id": "...",
     "title": "something",
     "content": "something",
-    "createdAt": "2025-08-10T15:00:00.000Z"
+    "createdAt": "..."
   }``
 ]
 
